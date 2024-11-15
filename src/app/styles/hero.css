@@ -1,0 +1,41 @@
+img{
+ width: 300px;
+ height: 300px;
+ border-radius: 50%;
+ 
+}
+
+.img-div{
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+
+
+body{
+    background-color: black;
+
+}
+
+
+.main{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+h1{
+font-size: 60px;
+text-align: center;
+color: rgba(255, 0, 0, 0.541);
+margin-bottom: 200;
+
+}
+
+h2{
+    font-size: xx-large;
+text-align: center;
+color:blue;
+margin-bottom: 200;
+}
